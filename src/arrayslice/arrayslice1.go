@@ -5,6 +5,6 @@ import (
 )
 
 func main() {
-	var a [3]int //int array with length 3
+	var a [3]int //int array with length 3 hm
 	fmt.Println(a)
 }
