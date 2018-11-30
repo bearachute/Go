@@ -5,6 +5,6 @@ import (
 )
 
 func main() {
-	i := make([]int, 5, 5)
-	fmt.Println(i)
+	name := "Hello World"
+	fmt.Println(name)
 }
